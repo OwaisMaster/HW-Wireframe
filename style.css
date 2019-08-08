@@ -4,40 +4,63 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    text-align: center;
+    padding: 0px 20% 0px 20%;
+    
 }
 
 header {
     background: #ebebeb;
+    margin: 10px 10px 10px 10px;
+    padding: 20px 15px 20px 15px;
 }
 
 nav {
     background: #ebebeb;
+    padding: 20px 15px 20px 15px;
+    margin: 10px 10px 10px 10px;
 }
 
 section {
     background: #ebebeb;
     width: 495px;
+    margin: 15px 15px 10px 10px;
+    padding: 5px 10px 10px 10px;
 }
 
 h1 {
     color: #777;
     background: #ebebeb;
+    margin: 5px 15px 15px 15px;
+    padding: 5px 5px 5px 5px;
 }
 
 p {
     color: #777;
     background: #ebebeb;
+    margin: 15px 15px 15px 15px;
+    padding: 5px 5px 10px 5px;
 }
 
 article {
     color: #ebebeb;
-    background: #777;
+    background-color: #777;
+    width: 480px;
+    margin: 10px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
 }
 
 aside {
     background: #ebebeb;
+    width: 410px;
+    margin: 5px 10px 5px 10px ;
+    padding: 0 0 212px 0;
+    float: right;
 }
 
 footer {
     background: #ebebeb;
+    color: #777;
+    margin: 15px 10px 10px 10px;
+    padding: 15px 15px 15px 15px;
 }
